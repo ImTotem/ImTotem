@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={p106305})](https://solved.ac/{p106305})
 <!--
+
 **ImTotem/ImTotem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
